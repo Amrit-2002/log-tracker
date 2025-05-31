@@ -9,17 +9,16 @@ A simple Laravel-based task and bug tracking application built to help manage da
 - Client management
 - Comments on tasks
 - AJAX-based Select2 dropdowns for Task Name and Client selection
-- File uploads using Trix Editor (supports images, PDFs, Excel files, etc.)
-- Public blog-style view (optional)
+- Rich Text Editor (Trix Editor)
 - Tabulator integration for advanced table filtering, sorting, and export
-- Export tasks to CSV
+- Export tasks to XLXS
 - Authentication using Laravel Breeze
 
 ## 🛠️ Tech Stack
 
 - Laravel 11 (PHP Framework)
 - MariaDB / MySQL
-- Trix Editor (Rich text with uploads)
+- Trix Editor (Rich text editor)
 - Tabulator (Data tables)
 - Select2 (Auto-suggestions)
 - Bootstrap 5 (UI Framework)
@@ -84,7 +83,8 @@ A simple Laravel-based task and bug tracking application built to help manage da
 
 ## 📸 Screenshots
 ![log-tracker](screenshots/log-tracker.png)
-![video](screenshots/log-tracker.webm)
+![image](https://github.com/user-attachments/assets/34ca8665-580b-45cc-ab28-f86dbaa65e5d)
+![image](https://github.com/user-attachments/assets/aa8eb5f1-a359-45de-aa6c-04e2cf505eaf)
 
 ## ⚡ Optimization Tips
 **Before deploying to production, run:**
